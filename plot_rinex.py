@@ -13,7 +13,7 @@ import numpy as np
 
 # Change these two settings or pass them as command-line arguments.
 RINEX_FILE = "80.00O"
-SATELLITE = "G03"
+SATELLITE = "C25"
 
 SYSTEM_NAMES = {
     "G": "GPS", "R": "GLONASS", "E": "Galileo", "C": "BeiDou",
